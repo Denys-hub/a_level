@@ -1,0 +1,13 @@
+// ??
+
+- http://joxi.ru/Vm6olloivVYJX2 используется не тот шрифт
+
+html
+- http://joxi.ru/Dr8MjjMhMZ3Ypm какие стили должны быть последние?????
+
+
+css
+- http://joxi.ru/L21o44oi0GB9kr где подключается шрифт?
+- http://joxi.ru/BA0oNNoiplY3W2 как ты получил 1.6 ?
+- http://joxi.ru/a2XXEEXi403Yb2 почему 0.15 ? что эта цифра обозначает?
+- http://joxi.ru/krDMGGMh4Mqb6m что этими свойствами мы делаем ?

@@ -1,0 +1,16 @@
+.box {
+  padding: 15px 10px 20px 10px;
+  border: dashed 2px red;
+  margin: 220px 350px 30px 350px;
+  background: green;
+  width: 350px;
+  height: 220px;
+}
+.kar {
+  float: left;
+  margin: 5px 20px 15px 10px;
+}
+.img1 {
+  float: right;
+  margin: 15px 15px 15px 15px;
+}

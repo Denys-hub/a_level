@@ -1,0 +1,134 @@
+#header {
+  display: flex;
+  align-items: center;
+  background: orange;
+  justify-content: space-between;
+}
+.menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 25px;
+  display: flex;
+  justify-content: flex-end;
+}
+.menu li {
+  padding: 10px;
+}
+.logo {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+}
+.logo img {
+  width: 220px;
+}
+.block {
+  display: flex;
+  min-height: 120vh;
+}
+.aside1,
+.aside2 {
+  background: rgb(163, 163, 230);
+  min-width: 210px;
+  display: flex;
+  justify-content: center;
+  font-size: 15px;
+  padding: 10px;
+}
+.block-content {
+  justify-content: center;
+  padding: 30px;
+  flex-wrap: wrap;
+}
+.our {
+  text-align: center;
+}
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card1 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  min-width: 400px;
+  min-height: 500px;
+  border: 1px solid;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 6%;
+  align-items: center;
+  flex-grow: 1;
+}
+.card1 p {
+  width: 300px;
+  text-align: center;
+}
+.icon {
+  max-width: 120px;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  box-shadow: 0 0 0px 14px gray;
+}
+.button {
+  padding: 10px 20px;
+  background: rgb(163, 163, 230);
+  border-radius: 35px;
+  transition: 1s;
+  cursor: pointer;
+}
+.button:hover {
+  background: yellow;
+  display: block;
+}
+.footer {
+  display: flex;
+  height: 5vh;
+  background: rgb(157, 226, 157);
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+}
+.holder {
+  margin: auto;
+  box-sizing: content-box;
+  display: flex;
+  flex-wrap: wrap;
+  width: 600px;
+  height: 235px;
+  margin-top: 50px;
+  border-radius: 40px 40px 0 0;
+  border: 2px solid black;
+}
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item:nth-child(1) {
+  width: 300px;
+  background: #fd644d;
+  order: -3;
+  border-radius: 38px 0 0 0;
+}
+.item:nth-child(2) {
+  width: 200px;
+  background: #663797;
+}
+.item:nth-child(3) {
+  order: -1;
+  width: 200px;
+  background: #4983b2;
+}
+.item:nth-child(4) {
+  width: 200px;
+  background: #0e7f12;
+}
+.item:nth-child(5) {
+  order: -2;
+  width: 300px;
+  background: #fda429;
+  border-radius: 0 38px 0 0;
+}

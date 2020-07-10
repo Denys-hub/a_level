@@ -1,0 +1,5 @@
+// 8
+- http://joxi.ru/J2bqYYqfG3RWMm footer не вижу
+- http://joxi.ru/bmognngC9R5qXm кнопки не выровнены
+- http://joxi.ru/xAeM66Mhg0nqBA контен должен быть первым
+- http://joxi.ru/EA4ojjoiOb6yB2 конкретную ширину ставить на блоки не надо

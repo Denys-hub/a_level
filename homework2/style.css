@@ -1,0 +1,47 @@
+                        /* 1 задание */
+blockquote {
+    margin: 0;
+    color:blue;
+}
+
+blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
+                        /* 2 задание  */
+}
+ul + p {
+    font-size: 26px;
+}
+a[href^='https://']{
+    color: red;
+}
+.tim1{
+    background: green;
+}
+
+                      /* 3 задание  */
+h3:first-child{
+    color: pink;
+}
+#greycol{
+    color: gray;
+}
+
+p:first-child{
+    color: red;
+}
+.text-box h3:last-of-type + p  {
+    color:green;
+}
+.yellow{
+    color: yellow;
+}

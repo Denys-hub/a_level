@@ -1,0 +1,15 @@
+// 6 
+- не вижу
+            *,
+            *:after,
+            *:before {
+                box-sizing: border-box;
+            }
+- http://joxi.ru/82QKEEKHyYqRBr убирай пустые строки  и следи за лесенкой
+- http://joxi.ru/D2PLGGLHkQ4aD2
+- http://joxi.ru/krDMGGMhJQOBRm это должен быть размер блока width и height (читай внимательно задание)
+где валидация?
+http://joxi.ru/ 
+установи и делай скрины
+
+http://joxi.ru/n2YxvvxTZXdpRm
